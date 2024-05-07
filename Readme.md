@@ -2,6 +2,8 @@
 
 - The following is part of the recommended books for Computer Science Stucy in 1st Year College
 
+## Reading List for modules
+
 - Principles of Programming
 - Introductory Mathematics for Computer Science
   - Statistics for technology, *Christopher Chatfield*
